@@ -37,6 +37,16 @@ javac ClassAndObject.java
 java ClassAndObject
 ```
 
+## Run all examples together
+
+A batch file is included to execute every Java example in sequence:
+
+```bat
+run-all.bat
+```
+
+This script compiles and runs each example folder one by one. For the full documentation and usage details, see [RUN_ALL_GUIDE.md](RUN_ALL_GUIDE.md).
+
 ## Files included
 
 Each folder usually contains:
