@@ -1,5 +1,5 @@
 # Java OOP Concepts & Interview Preparation
-
+![alt text](image.png)
 This repository is a practical Java learning collection focused on Object-Oriented Programming, Java fundamentals, and interview-driven concepts. Each example is kept simple and easy to understand so it can be used both for learning and for technical interview preparation.
 
 ## What this repository covers
