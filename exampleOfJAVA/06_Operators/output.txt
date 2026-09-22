@@ -1,0 +1,8 @@
+Add: 13
+Subtract: 7
+Multiply: 30
+Divide: 3
+Remainder: 1
+a>b: true
+Logical: true
+Ternary: a is greater

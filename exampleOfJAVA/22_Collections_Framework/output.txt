@@ -1,0 +1,4 @@
+List: [Java, Python]
+Set: [Java, Python]
+Map: {1=Java, 2=OOP}
+Queue: [First, Second]

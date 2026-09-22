@@ -1,0 +1,4 @@
+Lambda and Streams:
+Ravi
+Priya
+List.of and Streams demonstrated.

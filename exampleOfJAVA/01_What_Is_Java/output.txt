@@ -1,0 +1,3 @@
+Hello from Java!
+Java source is compiled to bytecode.
+Bytecode runs on the JVM.

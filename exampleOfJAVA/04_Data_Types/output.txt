@@ -1,0 +1,8 @@
+byte=10
+short=100
+int=1000
+long=100000
+float=10.5
+double=99.99
+char=A
+boolean=true

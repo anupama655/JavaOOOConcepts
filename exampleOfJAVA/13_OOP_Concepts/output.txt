@@ -1,0 +1,5 @@
+Class and Object
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction

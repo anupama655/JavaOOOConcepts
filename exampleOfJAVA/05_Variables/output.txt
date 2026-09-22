@@ -1,0 +1,3 @@
+Local: Java
+Instance: 25
+Static: 50000.0

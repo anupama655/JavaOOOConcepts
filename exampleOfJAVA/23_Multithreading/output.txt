@@ -1,0 +1,2 @@
+Thread is running.
+Main thread finished.
